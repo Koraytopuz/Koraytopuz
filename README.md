@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Koraytopuz
+hh- 👋 Hi, I’m @Koraytopuz
 - 👀 I’m interested in ...Yazılım ve kodlama ile 
-- 🌱 I’m currently learning ...c++ yazilim dilini 
+- 🌱 I’m currentl python html css javascript .
 - 💞️ I’m looking to collaborate on ...sizinle
 - 📫 How to reach me ...gmail: krytopuz@gmail.com
 
