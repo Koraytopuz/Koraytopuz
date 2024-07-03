@@ -1,6 +1,6 @@
 hh- 👋 Hi, I’m @Koraytopuz
 - 👀 I’m interested in Software 
-- 🌱 I’m currentl python html css java flutter
+- 🌱 I’m currentl c# html css java flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krytopuz@gmail.com 
 
