@@ -1,10 +1,9 @@
-hh- 👋 Hi, I’m @Koraytopuz
-- 👀 I’m interested in Software 
-- 🌱 I’m currentl c# html css java flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me krytopuz@gmail.com 
+👋 Hi, I’m Koray,
+🌱 I’m currently learning Asp.Net, Asp.Net Core, API, C#, SQL, MVC
+🤝 I’m looking for help with Backend
+💬 Ask me about .Net Core
+📫 How to reach me Krytopuz@gmail.com
 
-<!---teseşekkürler
 Koraytopuz/Koraytopuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
